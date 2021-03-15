@@ -6,9 +6,9 @@
 - 💞️ I’m looking to collaborate on ...
 --->
 - 📫 How to reach me: 
-* Email: mahin@tamu.edu
-* LinkedIn: https://www.linkedin.com/in/mahin-ramezani-074b8654/
-* Website: https://sites.google.com/view/mahinramezani
+**  Email: mahin@tamu.edu
+**  LinkedIn: https://www.linkedin.com/in/mahin-ramezani-074b8654/
+**   Website: https://sites.google.com/view/mahinramezani
 
 
 <!---
